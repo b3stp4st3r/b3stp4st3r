@@ -37,11 +37,23 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b3stp4st3r&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b3stp4st3r&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=b3stp4st3r&theme=radical&hide_border=true)
+
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b3stp4st3r&theme=radical" alt="GitHub Profile Summary"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b3stp4st3r&theme=radical" alt="Top Languages"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=b3stp4st3r&theme=radical" alt="Productive Time"/>
+</td>
+</tr>
+</table>
 
 </div>
 
