@@ -121,7 +121,7 @@ public:
 [![Telegram](https://img.shields.io/badge/Telegram-@zovpw-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zovpw)
 [![Email](https://img.shields.io/badge/Email-danyapentium@xyecoc.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyapentium@xyecoc.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=b3stp4st3r&color=blueviolet&style=flat-square&label=Просмотров+профиля)
+![Profile Views](https://komarev.com/ghpvc/?username=b3stp4st3r&color=blueviolet&style=for-the-badge&label=Просмотров+профиля)
 
 ---
 
