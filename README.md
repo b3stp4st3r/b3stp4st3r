@@ -2,10 +2,9 @@
 
 # 👋 Привет! Я Даниил Пентиум
 
-### 🔍 Reverse Engineer | 💻 C++ Developer | 🕵️ OSINT Enthusiast
+### 🔍 Reverse Engineer | 💻 C++ Developer\
 
-*Специализируюсь на низкоуровневом программировании, анализе программного обеспечения и создании инструментов для OSINT.*  
-*Люблю копаться в чужом коде и автоматизировать всё, что движется.*
+*Специализируюсь на низкоуровневом программировании и анализе программного обеспечения*  
 
 [![Telegram](https://img.shields.io/badge/Telegram-@zovpw-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zovpw)
 [![Email](https://img.shields.io/badge/Email-danyapentium@xyecoc.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danyapentium@xyecoc.com)
